@@ -10,7 +10,8 @@ int main()
   	  }
   	  printf("learn coding");
   	}
-
-
+out put:-
+ 
+1 2 3 4 5 6 7 learn coding
 
 
