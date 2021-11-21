@@ -13,3 +13,7 @@ printf("%d",store);
 return 0;
 }
 	
+out put :-
+
+enter any two numbers: 5765
+7868767
