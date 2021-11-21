@@ -20,3 +20,9 @@ for(i=0; i<2; i++)
 	printf("\n");
 }
 }
+
+out put:-
+	ileep@dileep-Latitude-E7450:~/vinod$ ./a.out 
+efef
+matrix element-34518825621875
+-34518876821875
