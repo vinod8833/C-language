@@ -11,3 +11,7 @@ int main()
 	printf("the perimeter of circle is %f\n",perimeter);
 	return 0;
 }
+out put:-
+enter the radius of circle :345678
+the area of circle is 375208902656.000000
+the perimeter of circle is 2170857.750000
