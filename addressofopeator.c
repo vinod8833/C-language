@@ -13,3 +13,7 @@ int main()
 
 
 }
+out put:-
+10
+10
+10
