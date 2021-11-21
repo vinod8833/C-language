@@ -15,7 +15,12 @@ int main(){
 			printf("result :%d",e);
 		
 		}
-
+out put:-
+	Enter the frist number :478
+Enter the 2nd number :4234
+Enter the 3rd number :5634
+Enter the 4th number :635
+result :0
 
 
 
