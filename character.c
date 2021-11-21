@@ -9,5 +9,9 @@
  			
 
  		}
+out put :-
+Enter the frist letter :cghh
+the letter is : c
 
+ 
 
