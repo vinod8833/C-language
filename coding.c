@@ -10,4 +10,5 @@
 
  		}
 
-
+out put:-
+ ............WEL COME VINOD'S  WORLD...........
