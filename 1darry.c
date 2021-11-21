@@ -8,3 +8,6 @@ int main()
   	printf("%d ",a[i]);
   	  }
   	  }
+
+out put:-
+ 78 90 67 34 87 
