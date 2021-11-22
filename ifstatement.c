@@ -9,3 +9,5 @@ if (x<y)
 
 
  }
+out put:-
+	variable of x is less then y
