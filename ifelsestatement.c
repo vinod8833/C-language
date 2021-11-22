@@ -12,10 +12,12 @@
  	 	    }
 else{
 		printf(" not eligible for vote");
-}
-
-
-
-
+	}
 
  }
+out put:-
+	Enter the age45
+eligible for vote 
+Enter the age11
+ not eligible for vote 
+
