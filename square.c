@@ -11,3 +11,6 @@ int main()
 	
 	return 0;	
 }
+out put:-
+	enter the side of a square :45
+area =2025 perimeter =180 
