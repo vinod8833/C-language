@@ -10,3 +10,5 @@ int main()
   	  }
   	  printf("\nlearn coding");
   	}
+out put:-
+ 1 2 3 4 5 6 7
