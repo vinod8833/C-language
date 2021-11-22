@@ -22,3 +22,13 @@ scanf("%d",&marks);
 		printf("AVARAGE");
 	}
 } 
+out put:-
+	enter your marks 56  
+AVARAGEdileep@dileep-Latitude-E7450:~/vinod$ ./a.out 
+enter your marks 100
+GINIUSdileep@dileep-Latitude-E7450:~/vinod$ ./a.out 
+enter your marks 88
+TOPPERdileep@dileep-Latitude-E7450:~/vinod$ ./a.out 
+enter your marks 38
+AVARAGEdileep@dileep-Latitude-E7450:~/vinod$ 
+
