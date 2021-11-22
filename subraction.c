@@ -12,12 +12,14 @@ int main()
 	printf("Enter the 4th number :");
 	scanf("%d",&d);
 	
-
-	
-
-	
-
-
-	int e=a-b-c-d;
+        int e=a-b-c-d;
 	printf("subraction of numbers is : %d",e);
 }
+
+out put:-
+	Enter the frist number :56788
+Enter the second number :2345
+Enter the 3rd number :345
+Enter the 4th number :78
+subraction of numbers is : 54020dileep@dileep-Latitude-E7450:~/vinod$ 
+
