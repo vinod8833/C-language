@@ -11,3 +11,7 @@ int main()
 		
 	return 0;	
 }
+out put:-
+	enter the base of a triangle :564
+enter the height of a triangle :68
+area of triangle using the base of height =19176.000000
