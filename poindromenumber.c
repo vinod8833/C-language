@@ -18,3 +18,8 @@ else
 	printf("not polindrome\n");
 
 }
+
+out put:-
+	enter the number :151
+the reverse number 151
+polindrome
