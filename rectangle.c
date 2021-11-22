@@ -14,3 +14,9 @@ int main()
 	return 0;	
 
 }
+out put:-
+	enter the length of a rectangle :675
+enter the width of a rectangle :97 
+
+ area of rectangle is :65475.000000
+ perimeter of rectangle is :1544.000000d
