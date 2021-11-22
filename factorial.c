@@ -12,3 +12,6 @@ int main()
 		printf("factorial of %d is %d",number,factorial);
 		return 0;
 	}
+out put:-
+	enter the any number :10
+factorial of 10 is 3628800
